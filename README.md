@@ -1,7 +1,3 @@
-Here is a polished and professional description for your GitHub repository and project, ready to use as a `README.md`:
-
----
-
 # Chainsaw Audio Classifier
 
 A Python-based machine learning application designed to detect and classify chainsaw sounds within audio datasets. This tool processes batches of audio files from a designated directory to identify acoustic signatures associated with illegal logging or forest activity monitoring.
@@ -26,5 +22,3 @@ A Python-based machine learning application designed to detect and classify chai
 For complete instructions on setting up the environment, configuring input/output paths, and executing the evaluation pipeline, please refer to the [How to run the program.pdf](https://github.com/shuzonudas/Chainsaw_classifier/blob/main/How%20to%20run%20the%20program.pdf) file included in this repository.
 
 ---
-
-*Would you like any adjustments to the tone or formatting for your project page?*
